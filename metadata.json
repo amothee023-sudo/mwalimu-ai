@@ -1,0 +1,6 @@
+{
+  "name": "Mwalimu AI – STEM Voice Tutor",
+  "description": "An AI-powered STEM tutor for Kenyan students using English, Swahili, and Sheng with relatable local analogies and voice interaction.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["AI-powered STEM tutoring", "Voice input/output", "Kenyan context support"]
+}
